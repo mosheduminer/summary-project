@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Summary Project",
+  "version": "1.0.0",
+  "side_panel": {
+    "default_title": "My sidebar",
+    "default_path": "index.html",
+    "open_at_install": true
+  },
+  "permissions": [
+    "activeTab",
+    "sidePanel",
+    "scripting"
+  ]
+}
